@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">سوق المبدعين</string>
+    <string name="allready_acc" translatable="false">هل لديك حساب</string>
+    <string name="action_settings" translatable="false">الإعدادات</string>
+    <string name="email" translatable="false">البريد الإلكتروني</string>
+    <string name="forget_pass" translatable="false">نسيت كلمة المرور</string>
+    <string name="login_btn" translatable="false">تسجيل الدخول</string>
+    <string name="menu_about" translatable="false">حول</string>
+    <string name="menu_home" translatable="false">الرئيسية</string>
+    <string name="menu_logout" translatable="false">تسجيل خروج</string>
+    <string name="menu_profile" translatable="false">الصفحة الشخصية</string>
+    <string name="menu_share" translatable="false">مشاركة</string>
+    <string name="user" translatable="false">اسم المستخدم</string>
+    <string name="title_activity_main_product" translatable="false">المنتج الرئيسي</string>
+    <string name="reg_btn" translatable="false">التسجيل</string>
+    <string name="pro_add" translatable="false">إضافة منتج</string>
+    <string name="pass" translatable="false">كلمة المرور</string>
+    <string name="new_acc" translatable="false">التسجيل كمستحدم جديد</string>
+    <string name="navigation_drawer_open" translatable="false">"فتح سحب التنقل   "</string>
+    <string name="navigation_drawer_close" translatable="false">"إغلاق سحب التنقل  "</string>
+    <string name="nav_header_title" translatable="false">الاندرويد استديو</string>
+    <string name="nav_header_desc" translatable="false">راس الصفحة</string>
+    <string name="Upload" translatable="false">تحميل صورة المنتج</string>
+    <string name="button" translatable="false">تخطي</string>
+    <string name="available" translatable="false">متاح</string>
+    <string name="address" translatable="false">العنوان</string>
+    <string name="P_Name" translatable="false">اسم المنتج</string>
+    <string name="Name" translatable="false">اسمك</string>
+    <string name="p_details" translatable="false">تفاصيل المنتج</string>
+    <string name="price" translatable="false">السعر</string>
+    <string name="log_email" translatable="false">البريد الإلكتروني</string>
+    <string name="log_pass" translatable="false">كلمة المرور</string>
+    <string name="add_paypal_btn" translatable="false">إضافة ايميل البيبال</string>
+    <string name="buy" translatable="false">شراء</string>
+    <string name="detail_product" translatable="false">المزيد من التقاصيل</string>
+    <string name="donate" translatable="false">تبرع</string>
+    <string name="empty_view" translatable="false">القائمة فارغة</string>
+    <string name="name_product" translatable="false">اسم المنتج</string>
+    <string name="register_btn" translatable="false">التسجيل</string>
+    <string name="textView" translatable="false">ايميل التبرع هو:</string>
+    <string name="title" translatable="false">العنوان</string>
+    <string name="user_registration_password" translatable="false">كلمة المرور</string>
+    <string name="nav_header_subtitle" translatable="false">البريدالإلكتروني</string>
+    <string name="email_tv" translatable="false">البريدالإلكتروني</string>
+</resources>
